@@ -1,4 +1,4 @@
-# APIs-projects
+## APIs-projects
 
 - [server-side-api-axios](https://github.com/devliwa/server-side-api-axios)
 - [api-auth](https://github.com/devliwa/api-auth)
@@ -6,5 +6,5 @@
 - [api-secrets](https://github.com/devliwa/api-secrets)
 - [Capstone Project - Use a Public API]()
 
-# build-API
+## build-API
 -
